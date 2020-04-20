@@ -7,8 +7,8 @@ Everyone needs sleep. If we don’t sleep enough, we rack up something called 's
 It will: 
 
 - determine the actual amount of sleep you have gotten the past week
-- also tell the ideal hours of sleep for each night of the past week
-- will calculate, in hours, how much sleep you owe
+- tell the ideal hours of sleep for each night of the past week
+- calculate, in hours, how much sleep you owe
 
 
 <h3>Technology Used:</h3>
