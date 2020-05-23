@@ -2,7 +2,7 @@
 
 <h3>Function & Description:</h3>
 
-Everyone needs sleep. If we don’t sleep enough, we rack up something called 'sleep debt'. This is a JavaScript program that calculates if you’re getting enough sleep each week.
+Everyone needs sleep. If we don’t sleep enough, we rack up something called 'sleep debt'. This is a JavaScript program that calculates the amount of sleep you're getting each week.
 
 It will: 
 
